@@ -55,7 +55,7 @@ thanks to the translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://deploy.safone.tech)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://deploy.rippo123)
 
 Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
@@ -107,7 +107,7 @@ $ sudo docker run musicplayer
 ## 📄 <a name="commands"></a>Commands
 
 Command | Description
-:--- | :---
+:--- | :-
 • !ping | Check if alive or not
 • !start / !help | Show the help for commands
 • !mode / !switch | Switch the stream mode (audio/video)
